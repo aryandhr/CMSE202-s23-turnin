@@ -1,0 +1,5 @@
+[36;1mProposed Workflow[0m
+1. Every person will be a collaborator on the project, that could be either developing code, dicussing ideas, doing research, or writing the paper, everyone will encourage each other and make sure to pull their own weight.
+2. Changes to the codebase will be tracked with git. Every team member is expected to pull from the remote repo as often as possible and don't forget to add, commit, and push (in order)!
+3. Commit messages should be brief but descriptive. Treat it like a tiny docstring telling the rest of the team what you changed and/or added with your new commit.
+4. Team members are expected develop in their personal branches and create a pull request once they are done so that all the other developers can review the code before deciding to merge it.
